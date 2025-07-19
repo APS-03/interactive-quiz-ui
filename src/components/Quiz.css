@@ -1,0 +1,37 @@
+.quiz-container {
+  background-color: #fff;
+  color: #333;
+  padding: 2rem;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  width: 90%;
+  max-width: 500px;
+  text-align: center;
+}
+
+.title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.score-section {
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+.result-section h2 {
+  margin-bottom: 1rem;
+}
+
+.restart-button {
+  background-color: #764ba2;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.restart-button:hover {
+  background-color: #5a378d;
+}
